@@ -60,101 +60,81 @@
 <table style="text-align:center">
   <tr>
     <td  width="120px">
-      <svg width="100" height="100" viewBox="0 0 36 36">
-      <path
+      <svg width="100" height="100" viewBox="0 0 36 36"><path
           d="M18 2.0845
              a 15.9155 15.9155 0 0 1 0 31.831
              a 15.9155 15.9155 0 0 1 0 -31.831"
           fill="none"
           stroke="#ecf0f1"
-          stroke-width="4"
-        />
-        <path
+          stroke-width="4"/><path
           stroke-dasharray="70, 100"
           d="M18 2.0845
              a 15.9155 15.9155 0 0 1 0 31.831
              a 15.9155 15.9155 0 0 1 0 -31.831"
           fill="none"
           stroke="#3498db"
-          stroke-width="4"
-        />
-      </svg>
+          stroke-width="4"/></svg>
       <br /><b>Programming & Development</b>
     </td>
     <td  width="120px">
-      <svg width="100" height="100" viewBox="0 0 36 36">
-        <path
+      <svg width="100" height="100" viewBox="0 0 36 36"><path
           d="M18 2.0845
              a 15.9155 15.9155 0 0 1 0 31.831
              a 15.9155 15.9155 0 0 1 0 -31.831"
           fill="none"
           stroke="#ecf0f1"
-          stroke-width="4"
-        />
-        <path
+          stroke-width="4"/><path
           stroke-dasharray="60, 100"
           d="M18 2.0845
              a 15.9155 15.9155 0 0 1 0 31.831
              a 15.9155 15.9155 0 0 1 0 -31.831"
           fill="none"
           stroke="#e74c3c"
-          stroke-width="4"
-        />
-      </svg>
+          stroke-width="4"/></svg>
       <br /><b>Cloud & Infrastructure</b>
     </td>
     <td  width="120px">
-      <svg width="100" height="100" viewBox="0 0 36 36">
-        <path
+      <svg width="100" height="100" viewBox="0 0 36 36"><path
           d="M18 2.0845
              a 15.9155 15.9155 0 0 1 0 31.831
              a 15.9155 15.9155 0 0 1 0 -31.831"
           fill="none"
           stroke="#ecf0f1"
-          stroke-width="4"
-        />
-        <path
+          stroke-width="4"/><path
           stroke-dasharray="75, 100"
           d="M18 2.0845
              a 15.9155 15.9155 0 0 1 0 31.831
              a 15.9155 15.9155 0 0 1 0 -31.831"
           fill="none"
           stroke="#2ecc71"
-          stroke-width="4"
-        />
-      </svg>
+          stroke-width="4"/></svg>
       <br /><b>Communication & Coordination</b>
     </td>
     <td  width="120px">
-      <svg width="100" height="100" viewBox="0 0 36 36">
-        <path
+      <svg width="100" height="100" viewBox="0 0 36 36"><path
           d="M18 2.0845
              a 15.9155 15.9155 0 0 1 0 31.831
              a 15.9155 15.9155 0 0 1 0 -31.831"
           fill="none"
           stroke="#ecf0f1"
-          stroke-width="4"
-        />
-        <path
+          stroke-width="4"/><path
           stroke-dasharray="35, 100"
           d="M18 2.0845
              a 15.9155 15.9155 0 0 1 0 31.831
              a 15.9155 15.9155 0 0 1 0 -31.831"
           fill="none"
           stroke="#f1c40f"
-          stroke-width="4"
-        />
-      </svg>
+          stroke-width="4"/></svg>
       <br /><b>Blockchain Development</b>
     </td>
   </tr>
 </table>
 <h3>🌍 Languages I speak: </h3>
 <ul>
-<p><img src="https://cdn-icons-png.flaticon.com/512/197/197564.png " width="13"/> - Swedish  <br/>
-<img src="https://cdn-icons-png.flaticon.com/512/4628/4628635.png" width="13"/>
-- English  <br/>
-<img src="https://cdn-icons-png.flaticon.com/512/197/197584.png " width="13"/> - Hungarian  <br/>
+<p>
+🇸🇪 - Swedish  <br/>
+🇺🇸 - English  <br/>
+🇭🇺 - Hungarian  <br/>
 </ul>
 
 ### 📬 Where to Reach Me
