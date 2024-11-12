@@ -56,64 +56,26 @@
 <div>
 
 <h3>⚙️ Skills: </h3>
-      <svg width="100" height="100">
-  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
-</svg>
-<table style="text-align:center">
-  <tr>
+<table style="text-align:center; border:none; display:flex; align-items:center;">
+  <tr style="display:flex; align-items:center; justify-content: center;">
     <td  width="120px">
-      <img src="https://github.com/Ferenc02/Ferenc02/blob/main/programming.svg">
-      <br /><b>Programming & Development</b>
+      <img src="https://github.com/user-attachments/assets/97bb324e-b4d6-4162-82b9-8a9861a7ee91" />
+      <br />
+      <br /><b>Dev & Programming</b>
     </td>
     <td  width="120px">
-      <svg width="100" height="100" viewBox="0 0 36 36"><path
-          d="M18 2.0845
-             a 15.9155 15.9155 0 0 1 0 31.831
-             a 15.9155 15.9155 0 0 1 0 -31.831"
-          fill="none"
-          stroke="#ecf0f1"
-          stroke-width="4"/><path
-          stroke-dasharray="60, 100"
-          d="M18 2.0845
-             a 15.9155 15.9155 0 0 1 0 31.831
-             a 15.9155 15.9155 0 0 1 0 -31.831"
-          fill="none"
-          stroke="#e74c3c"
-          stroke-width="4"/></svg>
+<img src="https://github.com/user-attachments/assets/e50c043f-8973-48d9-9a60-a445509de775" />
+        <br />
       <br /><b>Cloud & Infrastructure</b>
     </td>
     <td  width="120px">
-      <svg width="100" height="100" viewBox="0 0 36 36"><path
-          d="M18 2.0845
-             a 15.9155 15.9155 0 0 1 0 31.831
-             a 15.9155 15.9155 0 0 1 0 -31.831"
-          fill="none"
-          stroke="#ecf0f1"
-          stroke-width="4"/><path
-          stroke-dasharray="75, 100"
-          d="M18 2.0845
-             a 15.9155 15.9155 0 0 1 0 31.831
-             a 15.9155 15.9155 0 0 1 0 -31.831"
-          fill="none"
-          stroke="#2ecc71"
-          stroke-width="4"/></svg>
+      <img src="https://github.com/user-attachments/assets/1cba6afe-10e4-4fb6-b37e-8195418a0704" />
+        <br />
       <br /><b>Communication & Coordination</b>
     </td>
     <td  width="120px">
-      <svg width="100" height="100" viewBox="0 0 36 36"><path
-          d="M18 2.0845
-             a 15.9155 15.9155 0 0 1 0 31.831
-             a 15.9155 15.9155 0 0 1 0 -31.831"
-          fill="none"
-          stroke="#ecf0f1"
-          stroke-width="4"/><path
-          stroke-dasharray="35, 100"
-          d="M18 2.0845
-             a 15.9155 15.9155 0 0 1 0 31.831
-             a 15.9155 15.9155 0 0 1 0 -31.831"
-          fill="none"
-          stroke="#f1c40f"
-          stroke-width="4"/></svg>
+      <img src="https://github.com/user-attachments/assets/cd12c230-cdac-4599-8992-3696bbced884" />
+        <br />
       <br /><b>Blockchain Development</b>
     </td>
   </tr>
