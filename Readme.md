@@ -56,14 +56,13 @@
 <div>
 
 <h3>⚙️ Skills: </h3>
-
+      <svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
+</svg>
 <table style="text-align:center">
   <tr>
     <td  width="120px">
       <img src="https://github.com/Ferenc02/Ferenc02/blob/main/programming.svg">
-      <svg width="100" height="100">
-  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
-</svg>
       <br /><b>Programming & Development</b>
     </td>
     <td  width="120px">
