@@ -3,7 +3,7 @@
 <main style="display:flex; flex-wrap:wrap;">
 
 <div  style="width:50%">
-<p>Welcome to my page! <br /><br /> I'm a dedicated student from <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Gothenburg, Sweden currently pursuing studies as a Blockchain Developer. My background includes diverse experiences in IT support, customer service, and IT infrastructure. I am passionate about learning and growth, and I'm always eager to take on new challenges. Been a programmer as a hobby for a long time.</p>
+<p>IT technician by day, coder by night.</p>
 
 <h3>👨‍💻 Things I code with: </h3>
 <p>
